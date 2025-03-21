@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio
+49,8969,Mendoza,Mendoza,A,Cliente_0,42433299,Empresa_0,Dirección_0,LU,517-808-7517,2023-01-01,ver,-34.249951,-118.808377,CEX,62.88,TEA
+43,8692,La Plata,Buenos Aires,A,Cliente_1,62872627,Empresa_1,Dirección_1,MA,405-643-2373,2023-01-01,ver,-40.549933,131.349358,EFE,5566.26,SHOPPING
+48,6279,Banda del Río Salí,Tucumán,I,Cliente_2,93532617,Empresa_2,Dirección_2,SA,580-685-9326,2023-01-01,ver,-56.596663,44.357067,EFE,4790.54,RECREATIONAL
+30,4955,La Plata,Buenos Aires,A,Cliente_3,84626740,Empresa_3,Dirección_3,MI,290-243-7806,2023-01-01,ver,78.004483,-110.852018,EFE,6563.92,HOTEL
+39,1254,Ciudad Autónoma de Buenos Aires,Buenos Aires,A,Cliente_4,26818176,Empresa_4,Dirección_4,SA,818-345-3687,2023-01-01,ver,71.662784,-149.526763,EFE,7720.55,HOTEL
+50,3586,Godoy Cruz,Mendoza,A,Cliente_5,31706801,Empresa_5,Dirección_5,SA,470-176-4515,2023-01-01,ver,6.505448,104.922046,CEX,2430.03,SHOPPING
+37,5259,Maipú,Mendoza,A,Cliente_6,88194255,Empresa_6,Dirección_6,LU,356-845-5533,2023-01-01,ver,-51.247873,-137.836568,CEX,1997.13,AIRPORT
+48,5923,Mendoza,Mendoza,A,Cliente_7,53955512,Empresa_7,Dirección_7,JU,143-419-7935,2023-01-01,ver,16.505846,-148.764378,CEX,4844.87,RECREATIONAL
+27,5489,Córdoba,Córdoba,A,Cliente_8,80072590,Empresa_8,Dirección_8,VI,457-780-5738,2023-01-01,ver,8.258144,162.487978,CEX,1046.66,TEA
+39,2107,Banda del Río Salí,Tucumán,A,Cliente_9,77759133,Empresa_9,Dirección_9,VI,973-295-3171,2023-01-01,ver,48.629424,63.256262,EFE,5878.73,HORECA

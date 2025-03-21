@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio
+68,1672,Villa María,Córdoba,I,Cliente_0,17824944,Empresa_0,Dirección_0,LU,649-971-9808,2023-01-01,ver,-52.81674,96.854206,CEX,8291.56,GROCERY
+57,1282,Bahía Blanca,Buenos Aires,I,Cliente_1,12107876,Empresa_1,Dirección_1,VI,731-889-3120,2023-01-01,ver,5.388115,-21.756689,CEX,940.69,RECREATIONAL
+64,7980,Yerba Buena,Tucumán,A,Cliente_2,26558186,Empresa_2,Dirección_2,MI,536-628-6146,2023-01-01,ver,-25.474495,-82.909209,EFE,9200.69,GROCERY
+51,9432,Maipú,Mendoza,A,Cliente_3,68655954,Empresa_3,Dirección_3,MA,180-658-7317,2023-01-01,ver,30.741873,-11.503199,EFE,3429.06,RECREATIONAL
+66,6067,Rosario,Santa Fe,A,Cliente_4,62690775,Empresa_4,Dirección_4,LU,531-407-4017,2023-01-01,ver,-51.859041,76.246238,CEX,2253.58,TEA
+61,7998,La Plata,Buenos Aires,A,Cliente_5,37188683,Empresa_5,Dirección_5,JU,333-595-6761,2023-01-01,ver,-30.343681,-5.754633,CEX,9361.54,RESTAURANTE
+51,9318,Godoy Cruz,Mendoza,I,Cliente_6,71056769,Empresa_6,Dirección_6,VI,387-736-1110,2023-01-01,ver,-52.649325,-84.150485,EFE,2972.55,MAYORISTA
+67,2254,Bahía Blanca,Buenos Aires,A,Cliente_7,43879370,Empresa_7,Dirección_7,MA,642-343-5426,2023-01-01,ver,2.575266,-161.735282,CEX,9124.52,MAYORISTA
+55,4382,San Rafael,Mendoza,A,Cliente_8,43510873,Empresa_8,Dirección_8,MI,466-170-2791,2023-01-01,ver,-20.87528,-92.445932,CEX,9298.18,RESTAURANTE
+53,8608,Mendoza,Mendoza,A,Cliente_9,61444183,Empresa_9,Dirección_9,MI,786-968-8245,2023-01-01,ver,-53.796198,-128.663019,CEX,9604.27,HORECA

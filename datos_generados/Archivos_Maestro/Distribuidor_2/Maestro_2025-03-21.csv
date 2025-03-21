@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio
+57,9288,Rosario,Santa Fe,A,Cliente_0,69647280,Empresa_0,Dirección_0,JU,796-328-2025,2023-01-01,ver,-25.241025,-77.251517,EFE,2466.7,PETROL
+72,9393,Luján de Cuyo,Mendoza,A,Cliente_1,87224805,Empresa_1,Dirección_1,VI,616-653-3709,2023-01-01,ver,2.029057,-157.485407,CEX,7285.1,RESTAURANTE
+70,2951,Godoy Cruz,Mendoza,A,Cliente_2,90905419,Empresa_2,Dirección_2,MI,417-600-3232,2023-01-01,ver,20.688553,144.347934,CEX,4498.62,AIRPORT
+68,1398,Luján de Cuyo,Mendoza,A,Cliente_3,21425574,Empresa_3,Dirección_3,VI,223-349-4946,2023-01-01,ver,54.863969,165.476951,EFE,7123.67,KIOSK
+71,6617,Jesús María,Córdoba,A,Cliente_4,29208443,Empresa_4,Dirección_4,JU,256-304-5702,2023-01-01,ver,32.13041,-141.275131,CEX,5563.19,KIOSK
+70,1760,Jesús María,Córdoba,I,Cliente_5,77709654,Empresa_5,Dirección_5,JU,936-554-3833,2023-01-01,ver,38.161089,-156.650532,CEX,3874.04,MAKRO
+71,9208,Mar del Plata,Buenos Aires,A,Cliente_6,84903306,Empresa_6,Dirección_6,SA,856-467-3324,2023-01-01,ver,-8.482796,-90.674761,CEX,7089.4,PETROL
+73,6781,San Francisco,Córdoba,A,Cliente_7,26451959,Empresa_7,Dirección_7,VI,859-283-6020,2023-01-01,ver,32.829663,-37.407218,EFE,9483.41,HOTEL
+70,6328,Mendoza,Mendoza,A,Cliente_8,71067330,Empresa_8,Dirección_8,SA,937-828-8520,2023-01-01,ver,-27.10672,128.905398,CEX,7324.1,RECREATIONAL
+70,5263,Mendoza,Mendoza,A,Cliente_9,11876842,Empresa_9,Dirección_9,LU,716-834-7687,2023-01-01,ver,-74.514738,161.408699,CEX,8310.74,MAKRO

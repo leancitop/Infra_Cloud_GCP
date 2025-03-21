@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio
+35,3584,Villa María,Córdoba,A,Cliente_0,62110020,Empresa_0,Dirección_0,MI,210-622-4693,2023-01-01,ver,19.882192,-121.129089,CEX,4465.57,HORECA
+30,4516,Córdoba,Córdoba,A,Cliente_1,39690561,Empresa_1,Dirección_1,DO,690-347-7518,2023-01-01,ver,-50.822955,-104.72064,CEX,6159.17,GROCERY
+27,1465,Godoy Cruz,Mendoza,I,Cliente_2,94783782,Empresa_2,Dirección_2,VI,429-704-9378,2023-01-01,ver,42.700325,-54.831001,EFE,2434.28,HORECA
+42,8555,Rafaela,Santa Fe,A,Cliente_3,56452432,Empresa_3,Dirección_3,DO,968-301-4070,2023-01-01,ver,41.244269,49.25485,EFE,5619.03,AIRPORT
+34,9826,Banda del Río Salí,Tucumán,A,Cliente_4,45373936,Empresa_4,Dirección_4,VI,429-865-8463,2023-01-01,ver,7.733656,-144.804614,EFE,9698.49,MAYORISTA
+29,1759,Godoy Cruz,Mendoza,I,Cliente_5,77093505,Empresa_5,Dirección_5,MI,587-612-3801,2023-01-01,ver,61.749223,-61.145831,CEX,3030.92,TEA
+39,2197,Godoy Cruz,Mendoza,A,Cliente_6,87708908,Empresa_6,Dirección_6,MA,156-558-6886,2023-01-01,ver,-66.369388,-22.680185,EFE,2235.96,GROCERY
+32,3124,Rosario,Buenos Aires,A,Cliente_7,59209166,Empresa_7,Dirección_7,VI,246-323-2429,2023-01-01,ver,32.632506,17.477658,CEX,2457.53,AIRPORT
+43,8617,Bahía Blanca,Buenos Aires,I,Cliente_8,94857262,Empresa_8,Dirección_8,JU,547-200-3665,2023-01-01,ver,4.367137,-100.703713,EFE,5218.66,MAKRO
+43,6360,Mendoza,Mendoza,I,Cliente_9,48215645,Empresa_9,Dirección_9,SA,476-844-1026,2023-01-01,ver,71.014503,53.58267,CEX,2345.95,PETROL

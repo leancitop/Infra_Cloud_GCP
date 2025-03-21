@@ -1,0 +1,11 @@
+codigo_sucursal,codigo_cliente,ciudad,provincia,estado,nombre_cliente,cuit,razon_social,direccion,dias_visita,telefono,fecha_alta,fecha_baja,lat,long,condicion_venta,deuda_vencida,tipo_negocio
+33,2266,Bahía Blanca,Buenos Aires,A,Cliente_0,25614607,Empresa_0,Dirección_0,JU,851-572-9894,2023-01-01,ver,28.471722,88.168841,EFE,1246.72,GROCERY
+43,5284,Villa María,Córdoba,A,Cliente_1,59164221,Empresa_1,Dirección_1,SA,645-851-4824,2023-01-01,ver,50.500058,46.761185,EFE,6605.2,RESTAURANTE
+43,6788,Córdoba,Córdoba,A,Cliente_2,30633151,Empresa_2,Dirección_2,DO,414-348-6516,2023-01-01,ver,8.092203,-73.25899,CEX,4339.21,MAYORISTA
+31,9694,Rosario,Santa Fe,A,Cliente_3,95910554,Empresa_3,Dirección_3,LU,589-487-9691,2023-01-01,ver,-39.97592,133.66101,EFE,4579.97,RESTAURANTE
+33,7837,Rosario,Buenos Aires,A,Cliente_4,94614695,Empresa_4,Dirección_4,MA,956-658-5584,2023-01-01,ver,-28.423701,-113.064523,EFE,3817.06,RECREATIONAL
+44,5402,Villa María,Córdoba,A,Cliente_5,81272026,Empresa_5,Dirección_5,DO,621-847-3153,2023-01-01,ver,-49.075887,-145.42081,EFE,3988.56,PETROL
+32,3490,Luján de Cuyo,Mendoza,A,Cliente_6,98359952,Empresa_6,Dirección_6,SA,906-489-1721,2023-01-01,ver,-31.136412,40.126147,CEX,8069.95,MAYORISTA
+34,9010,Rafaela,Santa Fe,A,Cliente_7,34669777,Empresa_7,Dirección_7,LU,863-980-2948,2023-01-01,ver,43.895423,28.507617,EFE,7793.75,PETROL
+49,3352,Maipú,Mendoza,A,Cliente_8,94447955,Empresa_8,Dirección_8,VI,184-590-5113,2023-01-01,ver,23.097024,80.297584,EFE,6421.12,PETROL
+34,4403,Yerba Buena,Tucumán,I,Cliente_9,30243694,Empresa_9,Dirección_9,DO,548-339-7012,2023-01-01,ver,-51.026775,-5.928202,CEX,2580.99,SHOPPING
